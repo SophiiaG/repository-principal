@@ -1,0 +1,9 @@
+2) Les environnements d'exécution: 
+Il existent différents environnement permettant l’exécution du shell : 
+Interface graphique: 
+Il existe plusieurs environnements graphiques disponibles selon les machines tel que le terminal, Unity, ou encore KDE. Chacun de ces environnements graphiques est propre à chaque machine. L’environnement graphique facilite l’utilisation de ligne de commande en nous permettant par exemple l’utilisation du copier-coller ou encore du drag & drop. La plupart du temps, sur sa machine, on a tendance à utiliser l'environnement graphique, qui est plus intuitif. Cependant, la console est aussi un allié très puissant qui permet d'effectuer des actions habituellement difficiles à réaliser dans un environnement graphique.
+L'environnement console ou interface en ligne de commande : 
+Une interface en ligne de commande est une interface homme-machine dans laquelle la communication entre l'utilisateur et l'ordinateur s'effectue en mode texte:
+l’utilisateur tape une ligne de commande, c'est-à-dire du texte au clavier pour demander à l'ordinateur d'effectuer une opération.
+l’ordinateur affiche du texte correspondant au résultat de l'exécution des commandes tapées ou à des questions qu'un logiciel pose à l’utilisateur.
+Une interface en ligne de commandes peut servir aussi bien pour lancer l'exécution de divers utilitaires, que pour exécuter des commandes. En revanche, les fonctionnalités offertes par l'interface de commandes peuvent varier en fonction du shell que l'on utilise.
